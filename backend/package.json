@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run --hot src/index.ts",
+    "env:pull": "bunx dotenv-vault@latest pull",
+    "env:push": "bunx dotenv-vault@latest push"
+  },
+  "dependencies": {
+    "hono": "^4.6.20"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
