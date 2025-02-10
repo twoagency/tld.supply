@@ -28,8 +28,8 @@ All routes will be listed and planned here.
 
 
 ## ---------- START ----------
-Every route begins with: /api/v1
-Example URL: localhost:300/api/v1/...
+Every route begins with: /api/
+Example URL: localhost:300/api/...
 
 ✅: Implemented
 ⌛: Currently working on

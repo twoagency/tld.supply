@@ -6,8 +6,8 @@ import whoIsRoute from './routes/whois';
 const app = new Hono();
 const port = 3000;
 
-app.get('/isAvailable/:domains', (c) => isAvailableRoute(c));
-app.get('/whoIs/:domain', (c) => whoIsRoute(c));
+app.get('api/isAvailable/:domains', (c) => isAvailableRoute(c));
+app.get('api/whoIs/:domain', (c) => whoIsRoute(c));
 
 console.log(`Started development server: http://localhost:${port}`);
 
