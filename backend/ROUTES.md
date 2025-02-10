@@ -1,7 +1,7 @@
 # API Routes
 All routes will be listed and planned here.
 
-Reference for most API Request (Who Is, Register Domain, etc.) can be found (here)[https://www.namesilo.com/api-reference#domains/register-domain].
+[Reference for most API Request (Who Is, Register Domain, etc.)](https://www.namesilo.com/api-reference#domains/register-domain).
 
 ## Response
 ```json
