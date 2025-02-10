@@ -40,3 +40,17 @@ Example URL: localhost:300/api/...
 
 /whoIs/:domain (✅)
 - :domain -> replace with a domain. e.g.: domain.com
+
+/aiSearch/:prompt
+- :prompt -> replace with the prompt of the user
+Returns the following schema:
+
+{
+    domains: [
+        {
+            domain: string,
+            avaiable: boolean,
+            price: number
+        }
+    ]
+}
