@@ -32,7 +32,7 @@ Visit **[tld.supply](https://tld.supply/)** and find your perfect domain – fas
 
 ## 🛠️ Development & Open Source
 We believe in transparency and collaboration. Our service is open-source, and you can explore or contribute to our repositories:
-We will start using the [Epoch SemVer](https://antfu.me/posts/epoch-semver) by Anthony Fu
+<!-- We will start using the [Epoch SemVer](https://antfu.me/posts/epoch-semver) by Anthony Fu -->
 
 🔗 **Backend:** [GitHub - tld.supply Backend](https://github.com/twoagency/tld.supply/tree/backend)  
 🔗 **Frontend:** [GitHub - tld.supply Frontend](https://github.com/twoagency/tld.supply/tree/frontend)  
